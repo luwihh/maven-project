@@ -15,11 +15,5 @@ pipeline {
 				}
 			}
 		}
-		stage('Deploy to Staging') {
-			/* Agent section could go here as well */
-			steps {
-
-			}
-		}
 	}
 }
